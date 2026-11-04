@@ -25,6 +25,10 @@
       if(!el.hasAttribute('data-pl-al'))el.setAttribute('data-pl-al',el.getAttribute('aria-label'));
       el.setAttribute('aria-label',l==='en'?el.getAttribute('data-en-al'):el.getAttribute('data-pl-al'));
     });
+    d.querySelectorAll('[data-en-alt]').forEach(function(el){
+      if(!el.hasAttribute('data-pl-alt'))el.setAttribute('data-pl-alt',el.alt);
+      el.alt=l==='en'?el.getAttribute('data-en-alt'):el.getAttribute('data-pl-alt');
+    });
     root.lang=l;root.classList.toggle('is-en',l==='en');
     d.title=root.getAttribute(l==='en'?'data-title-en':'data-title-pl');
     d.querySelectorAll('.lang button').forEach(function(x){x.setAttribute('aria-pressed',x.getAttribute('data-l')===l?'true':'false')});
