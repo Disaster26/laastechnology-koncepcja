@@ -1,0 +1,386 @@
+{
+ "home appliances": [
+  {
+   "id": 30946798,
+   "alt": "Retro cream kitchen appliances from Radoco on a blue background.",
+   "w": 4160,
+   "h": 6240,
+   "user": "Mohammad abasi",
+   "slug": "vintage-radoco-kitchen-appliances-set-against-blue",
+   "img": "https://images.pexels.com/photos/30946798/pexels-photo-30946798.jpeg?cs=srgb&dl=pexels-mohammadabbasi-30946798.jpg&fm=jpg"
+  },
+  {
+   "id": 8146322,
+   "alt": "Stylish empty kitchen with wooden cabinets and large windows.",
+   "w": 7360,
+   "h": 4912,
+   "user": "Max Vakhtbovych",
+   "slug": "brown-and-white-counter-in-the-kitchen",
+   "img": "https://images.pexels.com/photos/8146322/pexels-photo-8146322.jpeg?cs=srgb&dl=pexels-artbovich-8146322.jpg&fm=jpg"
+  },
+  {
+   "id": 12689256,
+   "alt": "Clean white kitchen corner featuring sleek cabinets and a modern blender.",
+   "w": 2730,
+   "h": 4096,
+   "user": "Pew Nguyen",
+   "slug": "white-kitchen-cabinets",
+   "img": "https://images.pexels.com/photos/12689256/pexels-photo-12689256.jpeg?cs=srgb&dl=pexels-nguyendesigner-12689256.jpg&fm=jpg"
+  },
+  {
+   "id": 29149068,
+   "alt": "Contemporary kitchen space featuring a microwave and a gas stove on a marble countertop in Dubai",
+   "w": 4672,
+   "h": 7008,
+   "user": "AJ  Ahamad",
+   "slug": "modern-kitchen-interior-with-microwave-and-stove",
+   "img": "https://images.pexels.com/photos/29149068/pexels-photo-29149068.jpeg?cs=srgb&dl=pexels-aj-ahamad-767001191-29149068.jpg&fm=jpg"
+  },
+  {
+   "id": 18071814,
+   "alt": "Sleek black coffee maker and kettle on a modern kitchen countertop, ideal for brewing.",
+   "w": 6240,
+   "h": 4160,
+   "user": "Jaycee300s  ",
+   "slug": "tea-and-coffeemaker",
+   "img": "https://images.pexels.com/photos/18071814/pexels-photo-18071814.jpeg?cs=srgb&dl=pexels-jaycee300s-3059779-18071814.jpg&fm=jpg"
+  },
+  {
+   "id": 3958962,
+   "alt": "Spacious modern kitchen featuring stainless steel appliances and a dining area.",
+   "w": 5000,
+   "h": 3333,
+   "user": "Curtis Adams",
+   "slug": "empty-modern-kitchen-area",
+   "img": "https://images.pexels.com/photos/3958962/pexels-photo-3958962.jpeg?cs=srgb&dl=pexels-curtis-adams-1694007-3958962.jpg&fm=jpg"
+  },
+  {
+   "id": 19599329,
+   "alt": "Showcase of modern kitchen appliances in a retail store, featuring blenders and cooking equipment.",
+   "w": 5472,
+   "h": 3648,
+   "user": "Ludovic Delot",
+   "slug": "kitchen-appliances-in-a-store",
+   "img": "https://images.pexels.com/photos/19599329/pexels-photo-19599329.jpeg?cs=srgb&dl=pexels-delot-19599329.jpg&fm=jpg"
+  },
+  {
+   "id": 30946801,
+   "alt": "Modern black kitchen appliances including blender, mixer, and kettle with warm background.",
+   "w": 4160,
+   "h": 6240,
+   "user": "Mohammad abasi",
+   "slug": "stylish-black-kitchen-appliance-set-on-warm-background",
+   "img": "https://images.pexels.com/photos/30946801/pexels-photo-30946801.jpeg?cs=srgb&dl=pexels-mohammadabbasi-30946801.jpg&fm=jpg"
+  },
+  {
+   "id": 15259088,
+   "alt": "A storefront display featuring vintage televisions and home appliances on a sunny day in Bangkok.",
+   "w": 5444,
+   "h": 3649,
+   "user": "Jenny Mavimiro",
+   "slug": "cheap-television-seat-in-store",
+   "img": "https://images.pexels.com/photos/15259088/pexels-photo-15259088.jpeg?cs=srgb&dl=pexels-mavimiro-15259088.jpg&fm=jpg"
+  },
+  {
+   "id": 7535073,
+   "alt": "Interior of modern furnished kitchen with elegant white cabinets and contemporary appliances in spacious apartment",
+   "w": 4145,
+   "h": 3101,
+   "user": "Max Vakhtbovych",
+   "slug": "white-kitchen-furniture-and-modern-appliances-in-apartment",
+   "img": "https://images.pexels.com/photos/7535073/pexels-photo-7535073.jpeg?cs=srgb&dl=pexels-artbovich-7535073.jpg&fm=jpg"
+  },
+  {
+   "id": 12689255,
+   "alt": "Stylish kitchen corner featuring a sleek blender and induction stove on a white countertop.",
+   "w": 2730,
+   "h": 4096,
+   "user": "Pew Nguyen",
+   "slug": "blenders-on-top-of-a-kitchen-counter",
+   "img": "https://images.pexels.com/photos/12689255/pexels-photo-12689255.jpeg?cs=srgb&dl=pexels-nguyendesigner-12689255.jpg&fm=jpg"
+  },
+  {
+   "id": 3847520,
+   "alt": "Beautiful modern kitchen featuring sleek wooden cabinets and appliances.",
+   "w": 6000,
+   "h": 4000,
+   "user": "ready made",
+   "slug": "wooden-design-cabinet-kitchen",
+   "img": "https://images.pexels.com/photos/3847520/pexels-photo-3847520.jpeg?cs=srgb&dl=pexels-readymade-3847520.jpg&fm=jpg"
+  },
+  {
+   "id": 6527057,
+   "alt": "Interior of kitchen with minimalist glossy furniture and modern appliances in light contemporary apartment",
+   "w": 7360,
+   "h": 4912,
+   "user": "Max Vakhtbovych",
+   "slug": "modern-appliances-and-furniture-in-light-kitchen",
+   "img": "https://images.pexels.com/photos/6527057/pexels-photo-6527057.jpeg?cs=srgb&dl=pexels-artbovich-6527057.jpg&fm=jpg"
+  },
+  {
+   "id": 13334749,
+   "alt": "A man prepares fried eggs in a home kitchen, showcasing a cozy morning routine.",
+   "w": 4000,
+   "h": 6000,
+   "user": "Mizuno K",
+   "slug": "man-frying-eggs-in-a-kitchen",
+   "img": "https://images.pexels.com/photos/13334749/pexels-photo-13334749.jpeg?cs=srgb&dl=pexels-mizunokozuki-13334749.jpg&fm=jpg"
+  }
+ ],
+ "induction cooktop": [
+  {
+   "id": 6447387,
+   "alt": "View of electric stove with two burners building in kitchen counter and window with curtain",
+   "w": 2374,
+   "h": 3226,
+   "user": "Max Vakhtbovych",
+   "slug": "electric-stove-and-window-in-background",
+   "img": "https://images.pexels.com/photos/6447387/pexels-photo-6447387.jpeg?cs=srgb&dl=pexels-artbovich-6447387.jpg&fm=jpg"
+  },
+  {
+   "id": 7534297,
+   "alt": "A sleek, modern kitchen with steel appliances and minimalist design.",
+   "w": 7360,
+   "h": 4912,
+   "user": "Max Vakhtbovych",
+   "slug": "mounted-appliances-in-the-kitchen",
+   "img": "https://images.pexels.com/photos/7534297/pexels-photo-7534297.jpeg?cs=srgb&dl=pexels-artbovich-7534297.jpg&fm=jpg"
+  },
+  {
+   "id": 6755621,
+   "alt": "Stylish kitchen interior featuring a red pot on an induction cooker and lush houseplants.",
+   "w": 4196,
+   "h": 6294,
+   "user": "Vlada Karpovich",
+   "slug": "pot-standing-on-an-electric-stove-on-a-wooden-table",
+   "img": "https://images.pexels.com/photos/6755621/pexels-photo-6755621.jpeg?cs=srgb&dl=pexels-vlada-karpovich-6755621.jpg&fm=jpg"
+  },
+  {
+   "id": 7214452,
+   "alt": "Interior of contemporary light kitchen with white ovens and clean new stove in modern apartment",
+   "w": 7360,
+   "h": 4912,
+   "user": "Max Vakhtbovych",
+   "slug": "modern-ovens-placed-in-light-kitchen",
+   "img": "https://images.pexels.com/photos/7214452/pexels-photo-7214452.jpeg?cs=srgb&dl=pexels-artbovich-7214452.jpg&fm=jpg"
+  },
+  {
+   "id": 7045353,
+   "alt": "Contemporary kitchen interior featuring a stylish induction cooktop, stainless steel fixtures, and minimalist design.",
+   "w": 4800,
+   "h": 3200,
+   "user": "Max Vakhtbovych",
+   "slug": "an-interior-of-a-modern-kitchen",
+   "img": "https://images.pexels.com/photos/7045353/pexels-photo-7045353.jpeg?cs=srgb&dl=pexels-artbovich-7045353.jpg&fm=jpg"
+  },
+  {
+   "id": 6755613,
+   "alt": "Close-up of a person cooking on a kitchen electric stove with a pot.",
+   "w": 4086,
+   "h": 6129,
+   "user": "Vlada Karpovich",
+   "slug": "close-up-of-woman-in-an-apron-using-an-electric-stove",
+   "img": "https://images.pexels.com/photos/6755613/pexels-photo-6755613.jpeg?cs=srgb&dl=pexels-vlada-karpovich-6755613.jpg&fm=jpg"
+  },
+  {
+   "id": 18071812,
+   "alt": "Contemporary kitchen setup with stainless steel pots on an induction stove.",
+   "w": 6240,
+   "h": 4160,
+   "user": "Jaycee300s  ",
+   "slug": "two-pots-on-a-electric-cooker",
+   "img": "https://images.pexels.com/photos/18071812/pexels-photo-18071812.jpeg?cs=srgb&dl=pexels-jaycee300s-3059779-18071812.jpg&fm=jpg"
+  },
+  {
+   "id": 7964663,
+   "alt": "A woman in a yellow sweater cooking on an induction cooktop with a stainless steel pot.",
+   "w": 6016,
+   "h": 4016,
+   "user": "Kampus Production",
+   "slug": "woman-in-yellow-sweater-standing-by-induction-cooktop-with-a-steel-pot",
+   "img": "https://images.pexels.com/photos/7964663/pexels-photo-7964663.jpeg?cs=srgb&dl=pexels-kampus-7964663.jpg&fm=jpg"
+  },
+  {
+   "id": 34558051,
+   "alt": "A person interacts with a sleek black induction cooktop in a modern kitchen setting.",
+   "w": 4433,
+   "h": 6650,
+   "user": "HONG SON",
+   "slug": "person-using-a-modern-induction-cooktop",
+   "img": "https://images.pexels.com/photos/34558051/pexels-photo-34558051.jpeg?cs=srgb&dl=pexels-hson-34558051.jpg&fm=jpg"
+  },
+  {
+   "id": 35747335,
+   "alt": "Elegant minimalist kitchen counter with induction stove, pot, glassware, and cookbook.",
+   "w": 6000,
+   "h": 4000,
+   "user": "Alley Chien",
+   "slug": "modern-minimalist-kitchen-with-induction-stove",
+   "img": "https://images.pexels.com/photos/35747335/pexels-photo-35747335.jpeg?cs=srgb&dl=pexels-alley-chien-2150148608-35747335.jpg&fm=jpg"
+  },
+  {
+   "id": 17727996,
+   "alt": "A modern kitchen featuring a frying pan on an electric stove, perfect for cooking enthusiasts.",
+   "w": 3888,
+   "h": 5184,
+   "user": "Lisa Fotios",
+   "slug": "a-frying-pan-on-a-stove-top-with-a-timer",
+   "img": "https://images.pexels.com/photos/17727996/pexels-photo-17727996.jpeg?cs=srgb&dl=pexels-fotios-photos-17727996.jpg&fm=jpg"
+  },
+  {
+   "id": 37108928,
+   "alt": "Bright modern kitchen with granite countertop and stainless steel appliances.",
+   "w": 5991,
+   "h": 3994,
+   "user": "Lyndon Opalla1",
+   "slug": "modern-kitchen-interior-with-granite-countertop",
+   "img": "https://images.pexels.com/photos/37108928/pexels-photo-37108928.jpeg?cs=srgb&dl=pexels-lyndon-opalla1-2160752852-37108928.jpg&fm=jpg"
+  },
+  {
+   "id": 5907925,
+   "alt": "Crop anonymous females in aprons boiling homemade noodles in saucepan on tabletop stove surrounded by fresh assorted ingredients in contemporary kitchen",
+   "w": 3364,
+   "h": 2186,
+   "user": "Katerina Holmes",
+   "slug": "crop-faceless-women-cooking-traditional-noodle-dish-together",
+   "img": "https://images.pexels.com/photos/5907925/pexels-photo-5907925.jpeg?cs=srgb&dl=pexels-katerina-holmes-5907925.jpg&fm=jpg"
+  },
+  {
+   "id": 3933193,
+   "alt": "A chef uses a stove to sauté fresh scallops in a professional kitchen with precise technique.",
+   "w": 4000,
+   "h": 6000,
+   "user": "Tanya Gorelova",
+   "slug": "person-holding-stainless-steel-cooking-pot-with-food",
+   "img": "https://images.pexels.com/photos/3933193/pexels-photo-3933193.jpeg?cs=srgb&dl=pexels-tanya-gorelova-2199357-3933193.jpg&fm=jpg"
+  }
+ ],
+ "smart home device": [
+  {
+   "id": 22307556,
+   "alt": "A sleek smartphone with modern smart home devices on a minimalist gray background.",
+   "w": 3100,
+   "h": 2050,
+   "user": "Jakub Zerdzicki",
+   "slug": "smartphone-camera-and-sensors",
+   "img": "https://images.pexels.com/photos/22307556/pexels-photo-22307556.jpeg?cs=srgb&dl=pexels-jakubzerdzicki-22307556.jpg&fm=jpg"
+  },
+  {
+   "id": 24346971,
+   "alt": "Collection of smart home security gadgets with a smartphone display.",
+   "w": 3000,
+   "h": 2001,
+   "user": "Jakub Zerdzicki",
+   "slug": "home-monitoring-security",
+   "img": "https://images.pexels.com/photos/24346971/pexels-photo-24346971.jpeg?cs=srgb&dl=pexels-jakubzerdzicki-24346971.jpg&fm=jpg"
+  },
+  {
+   "id": 18721086,
+   "alt": "Top view of smart home devices and tablet on split yellow and purple background.",
+   "w": 3104,
+   "h": 2000,
+   "user": "Jakub Zerdzicki",
+   "slug": "tablet-and-electronics-accessories",
+   "img": "https://images.pexels.com/photos/18721086/pexels-photo-18721086.jpeg?cs=srgb&dl=pexels-jakubzerdzicki-18721086.jpg&fm=jpg"
+  },
+  {
+   "id": 16888144,
+   "alt": "Flat lay of smartphone and smart home devices on a white backdrop, showcasing modern technology.",
+   "w": 2998,
+   "h": 2000,
+   "user": "Jakub Zerdzicki",
+   "slug": "electronic-devices-on-white-background",
+   "img": "https://images.pexels.com/photos/16888144/pexels-photo-16888144.jpeg?cs=srgb&dl=pexels-jakubzerdzicki-16888144.jpg&fm=jpg"
+  },
+  {
+   "id": 29091470,
+   "alt": "A collection of smart home devices including bulbs, sockets, and cameras on a white backdrop.",
+   "w": 3000,
+   "h": 2001,
+   "user": "Jakub Zerdzicki",
+   "slug": "smart-home-devices-collection-on-white-background",
+   "img": "https://images.pexels.com/photos/29091470/pexels-photo-29091470.jpeg?cs=srgb&dl=pexels-jakubzerdzicki-29091470.jpg&fm=jpg"
+  },
+  {
+   "id": 30170004,
+   "alt": "Smart home integration with mobile phone control for enhanced automation.",
+   "w": 3000,
+   "h": 2001,
+   "user": "Jakub Zerdzicki",
+   "slug": "smart-home-devices-and-mobile-phone-integration",
+   "img": "https://images.pexels.com/photos/30170004/pexels-photo-30170004.jpeg?cs=srgb&dl=pexels-jakubzerdzicki-30170004.jpg&fm=jpg"
+  },
+  {
+   "id": 23459391,
+   "alt": "A collection of smart home devices including light bulbs and a smartphone, showcasing modern technology.",
+   "w": 3000,
+   "h": 2001,
+   "user": "Jakub Zerdzicki",
+   "slug": "smart-home-devices-smartphone-remote-control",
+   "img": "https://images.pexels.com/photos/23459391/pexels-photo-23459391.jpeg?cs=srgb&dl=pexels-jakubzerdzicki-23459391.jpg&fm=jpg"
+  },
+  {
+   "id": 27662879,
+   "alt": "Modern smart home devices including a camera and sensors on a neutral background.",
+   "w": 3000,
+   "h": 2112,
+   "user": "Jakub Zerdzicki",
+   "slug": "smart-home-devices-system-security-camera-automation",
+   "img": "https://images.pexels.com/photos/27662879/pexels-photo-27662879.jpeg?cs=srgb&dl=pexels-jakubzerdzicki-27662879.jpg&fm=jpg"
+  },
+  {
+   "id": 19089175,
+   "alt": "Flat lay of smart home devices and smartphone showcasing automation and connectivity.",
+   "w": 3164,
+   "h": 2200,
+   "user": "Jakub Zerdzicki",
+   "slug": "light-bulbs-surrounding-smartphone",
+   "img": "https://images.pexels.com/photos/19089175/pexels-photo-19089175.jpeg?cs=srgb&dl=pexels-jakubzerdzicki-19089175.jpg&fm=jpg"
+  },
+  {
+   "id": 27523128,
+   "alt": "Showcase of various smart home devices controlled via a smartphone, highlighting automation and security.",
+   "w": 3500,
+   "h": 1841,
+   "user": "Jakub Zerdzicki",
+   "slug": "smart-home-devices-mobile-phone-screen-mockup",
+   "img": "https://images.pexels.com/photos/27523128/pexels-photo-27523128.jpeg?cs=srgb&dl=pexels-jakubzerdzicki-27523128.jpg&fm=jpg"
+  },
+  {
+   "id": 4790278,
+   "alt": "A smart speaker with a digital clock display placed on a minimalist desk setting, hand in background.",
+   "w": 6016,
+   "h": 4016,
+   "user": "Anete Lusina",
+   "slug": "white-speaker-on-the-table",
+   "img": "https://images.pexels.com/photos/4790278/pexels-photo-4790278.jpeg?cs=srgb&dl=pexels-anete-lusina-4790278.jpg&fm=jpg"
+  },
+  {
+   "id": 27662922,
+   "alt": "Modern minimalist smart home devices including security camera and sensors in white.",
+   "w": 3000,
+   "h": 2216,
+   "user": "Jakub Zerdzicki",
+   "slug": "smart-home-devices-security-camera",
+   "img": "https://images.pexels.com/photos/27662922/pexels-photo-27662922.jpeg?cs=srgb&dl=pexels-jakubzerdzicki-27662922.jpg&fm=jpg"
+  },
+  {
+   "id": 27662902,
+   "alt": "Smart home gadgets including a security camera, speaker, and smartphone displayed on a white surface.",
+   "w": 3000,
+   "h": 2001,
+   "user": "Jakub Zerdzicki",
+   "slug": "smart-home-devices-empty-smartphone-screen-mockup",
+   "img": "https://images.pexels.com/photos/27662902/pexels-photo-27662902.jpeg?cs=srgb&dl=pexels-jakubzerdzicki-27662902.jpg&fm=jpg"
+  },
+  {
+   "id": 17536106,
+   "alt": "A minimalist bedroom featuring a smart home automation switch on the wall for controlling devices.",
+   "w": 2998,
+   "h": 2000,
+   "user": "Jakub Zerdzicki",
+   "slug": "wall-button-smart-home-automation",
+   "img": "https://images.pexels.com/photos/17536106/pexels-photo-17536106.jpeg?cs=srgb&dl=pexels-jakubzerdzicki-17536106.jpg&fm=jpg"
+  }
+ ]
+}

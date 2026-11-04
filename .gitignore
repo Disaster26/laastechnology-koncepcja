@@ -1,0 +1,5 @@
+_src/raw/
+_src/*.png
+_src/*.jpg
+_zrzuty/
+__pycache__/
