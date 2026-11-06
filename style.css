@@ -240,7 +240,17 @@ p{margin:0}
 .foot-d a{word-break:break-word}
 .foot-b{display:flex;flex-wrap:wrap;gap:12px 28px;padding:22px 0 26px;margin-top:56px;border-top:1px solid var(--ln);font-size:14px;color:var(--mu)}
 .foot-w{margin-left:auto}
-.foot-w a{color:#fff;text-decoration:underline}
+/* znak Wylinka - kod 1:1 z Wylinka/strona/public/znak/badge.html */
+.wylinka-badge{display:inline-flex;align-items:center;gap:.4em;color:inherit;text-decoration:none;font-size:.875em;line-height:1;opacity:.85}
+.wylinka-badge:hover,.wylinka-badge:focus-visible{opacity:1}
+.wylinka-badge:focus-visible{outline:2px solid currentColor;outline-offset:3px;border-radius:2px}
+.wylinka-badge svg{width:18px;height:18px;flex:none;overflow:visible}
+.wylinka-badge b{font-weight:600}
+.wylinka-badge .wy-old{opacity:.45;transform-origin:40px 30px;transition:transform .32s cubic-bezier(.3,.7,.4,1),opacity .32s ease-out}
+.wylinka-badge .wy-pod{opacity:0;transition:opacity .2s ease-out .08s}
+.wylinka-badge:hover .wy-old,.wylinka-badge:focus-visible .wy-old{transform:translate(9px,7px) rotate(9deg);opacity:0}
+.wylinka-badge:hover .wy-pod,.wylinka-badge:focus-visible .wy-pod{opacity:1}
+@media (prefers-reduced-motion:reduce){.wylinka-badge .wy-old,.wylinka-badge .wy-pod{transition:none}.wylinka-badge:hover .wy-old,.wylinka-badge:focus-visible .wy-old{transform:none;opacity:.45}.wylinka-badge:hover .wy-pod,.wylinka-badge:focus-visible .wy-pod{opacity:0}}
 
 .mob{display:none}
 
@@ -371,3 +381,5 @@ p{margin:0}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 img[src*="laas-hurt"]{filter:brightness(.68) saturate(.7) contrast(1.05)}
 @media (min-width:1000px){.phead-img .phead-g{max-width:560px}}
+/* znak Wylinka w linii tekstu stopki - wyrownanie do tekstu */
+.foot-w .wylinka-badge{vertical-align:middle}
